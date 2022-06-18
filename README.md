@@ -37,5 +37,6 @@ The original addon is available on the Workshop [here](https://steamcommunity.co
 
 ## Legal Terms
 This addon is licensed under [Creative Commons Sharealike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) and is based on content of [SCP Foundation](http://scp-wiki.wikidot.com/). Credits to [Destructible Doors for Gmod!](https://steamcommunity.com/sharedfiles/filedetails/?id=290961117) code from which I drew inspiration and extended to make my own entity breaking system.
+Credits to [Pixel UI](https://github.com/TomDotBat/pixel-ui) for this fork (the original repository do NOT use the Pixel UI library!)
 
 [Original author & codebase](https://github.com/Guthen/guthscpbase)
